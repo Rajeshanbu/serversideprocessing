@@ -19,7 +19,7 @@ create the html file
 
 
 ### Step 4:
-create the url 
+Run the server 
 
 
 
