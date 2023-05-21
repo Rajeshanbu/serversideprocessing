@@ -24,15 +24,10 @@ create the url
 
 
 ### Step 5:
-the website is the URL. http://rajesh.student.saveetha.in:8000/volume/
-
-
-
-### Step 6:
-
-Publish the website in the given URL.. http://rajeshanbu.student.saveetha.in:8000/volume/
+the website is the URL. http://rajesh.student.saveetha.in:8000/volume
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -96,6 +91,7 @@ Volume:<input type="text" name="volume" value={{volume}}></input>
 </div>
 </body>
 </html>
+```
 
 ## OUTPUT:
 
